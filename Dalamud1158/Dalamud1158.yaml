@@ -1,0 +1,10 @@
+name: Dalamud1158
+internal_name: Dalamud1158
+author: perchbird
+punchline: dalamud1158
+load_required_state: 2
+load_priority: 10
+load_sync: true
+description: |-
+  dalamud1158
+repo_url: https://github.com/lmcintyre/Dalamud1158
